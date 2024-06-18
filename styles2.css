@@ -1,0 +1,45 @@
+body {
+    background-color: #f5d3dd;
+    font-family: 'Gill Sans MT', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    
+    transition: transform 0.2s;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+h1, h2, h3 {
+    color: #f5d3dd;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.offer, .search-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: red;
+    color: #f5d3dd;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}

@@ -1,0 +1,89 @@
+﻿body {
+    background-color: #f5d3dd;
+    font-family: 'Gill Sans MT', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: red;
+    color: #f5d3dd;
+    text-align: center;
+    padding: 3px 0; 
+}
+
+table {
+    width: 90%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.banner {
+    width: 100%;
+    padding: 5px 0; 
+    background-color: red;
+    color: #f5d3dd;
+    text-align: center;
+    font-size: 1.25em; 
+}
+
+.offer {
+    font-size: 1.25em;
+    color: red;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.email-input {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.submit-btn {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: red;
+    color: #f5d3dd;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.product-table {
+    background-color: red;
+    color: #f5d3dd;
+    border: 5px solid #f5d3dd;
+}
+
+.product-table td {
+    padding: 20px;
+}
+
+.product-table img {
+    width: 70%;
+}
+
+.social {
+    text-align: center;
+    color: red;
+    margin: 40px 0;
+}
+
+footer {
+    margin-top: 40px;
+}
